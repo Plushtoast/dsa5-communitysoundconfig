@@ -1,0 +1,68 @@
+{
+    "rangeweapon": {
+        "manual": {
+            "Shortbow": {
+                "attack": "",
+                "damage": "",
+                "default": ""
+            }
+        },
+        "Bows": {
+            "attack": "",
+            "damage": "",
+            "default": ""
+        },
+        "default": ""
+    },
+    "meleeweapon": {
+        "manual": {
+            "Longsword": {
+                "attack": "",
+                "parry": "",
+                "damage": "",
+                "default": ""
+            }
+        },
+        "Swords": {
+            "attack": "",
+            "damage": "",
+            "default": ""
+        },
+        "default": ""
+    },
+
+    "liturgy": {
+        "Armatrutz": {
+            "default": ""
+        },
+        "default": ""
+    },
+
+    "spell": {
+        "Armatrutz": {
+            "default": ""
+        },
+        "default": ""
+    },
+
+    "ritual": {
+        "Armatrutz": {
+            "default": ""
+        },
+        "default": ""
+    },
+
+    "ceremony": {
+        "Armatrutz": {
+            "default": ""
+        },
+        "default": ""
+    },
+
+    "skill": {
+        "Stealth": {
+            "default": ""
+        },
+        "default": ""
+    }
+}
