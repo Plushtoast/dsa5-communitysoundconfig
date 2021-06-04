@@ -1,3 +1,6 @@
 {
-
+  "DSASOUNDCONFIG" : {
+    "config": "Sound config",
+    "configHint": "Wähle die Konfiguration"
+  }
 }
