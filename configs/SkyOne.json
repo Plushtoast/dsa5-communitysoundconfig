@@ -1,167 +1,193 @@
 {
-  "rangeweapon": {
-    "Wurfwaffen": {
-      "default": "modules/gAudioBundle-4/src/Whooshes/Whoosh_Rod_Pole_022.ogg"
-    },
-
-    "default": "modules/gAudioBundle-1/src/Airy Whooshes/Whoosh_Sound_Design_Airy_Full_Forceful_Soft.ogg"
-
-  },
-  "meleeweapon": {
-    "Dolche": {
-      "default": "modules/gAudioBundle-2/src/Dark Materials/Gaf_Sfx01_Horror_Designed_Stab_Medium_10.ogg"
-    },
-    "Hiebwaffen": {
-      "default": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
-    },
-    "Schwerter": {
-      "default": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
-    },
-    "Zweihandhiebwaffen": {
-      "default": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
-    },
-    "Zweihandschwerter": {
-      "default": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
-    },
-    "Peitschen": {
-      "default": "modules/gAudioBundle-4/src/Whooshes/Swoosh_Rope_Whip_075.ogg"
-    },
-
-    "default": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
-
-  },
-  "skill": {
-    "Klettern": {
-      "fail": "modules/gAudioBundle-3/src/Rocks/Rock_Tumble_Down_Debris_Long_06.ogg",
-      "default": "modules/gAudioBundle-3/src/Rocks/Rock_Tumble_Down_Debris_Long_06.ogg"
-    },
-    "Kraftakt": {
-      "default": "modules/gAudioBundle-2/src/Fight Vocalizations/Emote_Joshua_Man_Pain_Hurt_Grunt_Big_03.ogg"
-    },
-    "Reiten": {
-      "success": "modules/gAudioBundle-4/src/Shetland Pony Vox/Pony_Nicker_Heavy_08.ogg",
-      "fail": "modules/gAudioBundle-4/src/Shetland Pony Vox/Pony_Whinny_Heavy_05.ogg",
-      "default": "modules/gAudioBundle-2/src/Horses/G4f_Sfx06-Horses-Whinny_Distant_01.ogg"
-    },
-    "Schwimmen": {
-      "fail": "modules/gAudioBundle-4/src/Unfathomed/Unfathomed_Hydrophone_Submerged_Smallglass_Effervescenttabs_Carbonateddrink_Pouring_Filling_Gurgling_Fizz_Alt.ogg",
-      "default": "modules/gAudioBundle-3/src/Lake Wave Sound Effects/Isolated_Lake_Wave_02_04.ogg"
-    },
-    "Selbstbeherrschung": {
-      "fail": "modules/gAudioBundle-2/src/Human/Scream_Male_Mid_Thirties_Mouth_Covered_Gasps_Fast_Shriek_Panic.ogg"
-    },
-    "SinnesschÃ¤rfe": {
-      "default": "modules/gAudioBundle-2/src/Fly/Insect__Fly_02_Take_Off__Flying_Away__Landing.ogg"
-    },
-    "Taschendiebstahl": {
-      "default": "modules/gAudioBundle-2/src/Coinage/Coins_Pouch_Leather_Drop_Into_Takes_3.ogg"
-    },
-    "Verbergen": {
-      "fail": "modules/gAudioBundle-2/src/Doors/Squeaky_Closet_Door_Open_001.ogg"
-    },
-    "Zechen": {
-      "fail": "modules/gAudioBundle-2/src/Final Impact/Glass_Bottle_Smash_005.ogg",
-      "default": "modules/gAudioBundle-1/src/Burst/Burst_Glass_Release_Bottle_Pour_Fizz_Cistern_Midlevel_Choppy_Marble_Rattle.ogg"
-    },
-    "BetÃ¶ren": {
-      "success": "modules/gAudioBundle-2/src/Forge Sound Design Toolkit/Heart_Beat_02.ogg",
-      "fail": "modules/gAudioBundle-2/src/General Library/Whistle_Finger_Moderate_02.ogg"
-    },
-    "EinschÃ¼chtern": {
-      "fail": "modules/gAudioBundle-2/src/Cartoon Sounds/Cartoon_Caveman_Finding_Humor.ogg"
-    },
-    "Etikette": {
-      "fail": "modules/gAudioBundle-1/src/Burp/Jm_Burp_Short_Forced.ogg"
-    },
-    "Verkleiden": {
-      "default": "modules/gAudioBundle-2/src/Closet/Person_Removing_Jacket_001.ogg"
-    },
-    "Fischen & Angeln": {
-      "success": "modules/gAudioBundle-2/src/Hydrology Bubbles And Splashes/Fish_Small_Jump_04.ogg",
-      "fail": "modules/gAudioBundle-2/src/Hydrology Underwater/Underwater_Splash_Large_06.ogg",
-      "default": "modules/gAudioBundle-1/src/Black Sea/Sfx_Medium_Wave_Splash_On_Rocks_12.ogg"
-    },
-    "Pflanzenkunde": {
-      "default": "modules/gAudioBundle-4/src/Vegetable Carnage/Vegetable_Carnage_Apple_Rip_Snap_Dry_Medium_Long.ogg"
-    },
-    "Tierkunde": {
-      "fail": "modules/gAudioBundle-2/src/Dogs Game Ready/Dog_Small_Far_Barking_Echo-017.ogg"
-    },
-    "Wildnisleben": {
-      "default": "modules/gAudioBundle-2/src/General Library/Thunder_Very-Close_Rain_08.ogg"
-    },
-    "Geographie": {
-      "default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
-    },
-    "Geschichtswissen": {
-      "default": "modules/gAudioBundle-2/src/Handwriting Sound Effects/Handwriting_Fountainpen_023.ogg"
-    },
-    "Kriegskunst": {
-      "default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
-    },
-    "Magiekunde": {
-      "default": "modules/gAudioBundle-2/src/Handwriting Sound Effects/Handwriting_Fountainpen_023.ogg"
-    },
-    "Mechanik": {
-      "success": "modules/gAudioBundle-2/src/Elegant Machines/Rotation_Metal_Crank_Gears_Squeak_Rattle_Loop_Short.ogg",
-      "default": "modules/gAudioBundle-1/src/Black Metal/Dry_Hard_Metal_Impact_With_Rust_Debris_20.ogg"
-    },
-    "Rechtskunde": {
-      "default": "modules/gAudioBundle-2/src/Handwriting Sound Effects/Handwriting_Fountainpen_023.ogg"
-    },
-    "Sagen & Legenden": {
-      "default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
-    },
-    "SphÃ¤renkunde": {
-      "default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
-    },
-    "Sternkunde": {
-      "default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
-    },
-    "Alchimie": {
-      "default": "modules/gAudioBundle-2/src/Elements Water Volumes/Acid_Drop_Harsh_Sizzle_Burn_Melt_Corrosion.ogg"
-    },
-    "Boote & Schiffe": {
-      "default": "modules/gAudioBundle-1/src/Black Sea/Sfx_Medium_Wave_Splash_On_Rocks_12.ogg"
-    },
-    "Handel": {
-      "default": "modules/gAudioBundle-2/src/Coinage/Coins_Hand_Jingle_Movement_Takes_6.ogg"
-    },
-    "Heilkunde Gift": {
-      "default": "modules/gAudioBundle-2/src/Elements Water Volumes/Acid_Drop_Harsh_Sizzle_Burn_Melt_Corrosion.ogg"
-    },
-    "Heilkunde Krankheiten": {
-      "default": "modules/gAudioBundle-2/src/Elements Water Volumes/Acid_Drop_Harsh_Sizzle_Burn_Melt_Corrosion.ogg"
-    },
-    "Heilkunde Wunden": {
-      "default": "modules/gAudioBundle-3/src/Paper and Cardboard/Opening_A_Large_Cardboard_Package_04.ogg"
-    },
-    "Holzbearbeitung": {
-      "default": "modules/gAudioBundle-2/src/Ice/Ice Block/Saw_Ice_003.ogg"
-    },
-    "Lebensmittelbearbeitung": {
-      "default": "modules/gAudioBundle-4/src/Water/Water_In_Frying_Pan_05.ogg"
-    },
-    "Malen & Zeichnen": {
-      "default": "modules/gAudioBundle-2/src/Handwriting Sound Effects/Handwriting_Fountainpen_023.ogg"
-    },
-    "Metallbearbeitung": {
-      "success": "modules/gAudioBundle-1/src/Black Metal/Dry_Hard_Sheet_Metal_Movement_05.ogg",
-      "default": "modules/gAudioBundle-1/src/Antiques/Tobacco-Cutting-Machine_Antique_Crank_17.ogg"
-    },
-    "Musizieren": {
-      "success": "modules/gAudioBundle-2/src/Gliss Bliss/Bell_Guitar_Gliss_Up_01.ogg",
-      "fail": "modules/gAudioBundle-2/src/General Library/Whistle_Finger_Moderate_02.ogg"
-    },
-    "SchlÃ¶sserknacken": {
-      "fail": "modules/gAudioBundle-2/src/Doors/Door_Open_004.ogg",
-      "default": "modules/gAudioBundle-1/src/Assorted Foley Elements/Doors_Wood_Gate_Open_2.ogg"
-    },
-    "Steinbearbeitung": {
-      "default": "modules/gAudioBundle-2/src/Elements Rocks Dirt And Stone/Rockslide_02.ogg"
-    },
-    "Stoffbearbeitung": {
-      "default": "modules/gAudioBundle-4/src/Scratches/Scratch Multi Surface Fingernail Scratches/Nails_On_Towel_Single_003.ogg"
-    }
-  }
+	"rangeweapon": {
+		"Wurfwaffen": {
+			"default": "modules/gAudioBundle-4/src/Whooshes/Whoosh_Rod_Pole_022.ogg"
+		},
+		"default": {
+			"damage": "modules/gAudioBundle-1/src/Bloodbath/Pm_Bb_Designed_Cinematic_Chops_25.ogg",
+			"default": "modules/gAudioBundle-1/src/Airy Whooshes/Whoosh_Sound_Design_Airy_Full_Forceful_Soft.ogg"
+		}
+	},
+	"meleeweapon": {
+		"Dolche": {
+			"attack": "modules/gAudioBundle-2/src/Dark Materials/Gaf_Sfx01_Horror_Designed_Stab_Medium_10.ogg"
+		},
+		"Hiebwaffen": {
+			"attack": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
+		},
+		"Schilde": {
+			"parry": "modules/gAudioBundle-4/src/Super Heroes Sound Design/The_Captain's_Shield_Metal_Hit_5.ogg"
+		},
+		"Schwerter": {
+			"attack": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
+		},
+		"Zweihandhiebwaffen": {
+			"attack": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
+		},
+		"Zweihandschwerter": {
+			"attack": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg"
+		},
+		"Peitschen": {
+			"attack": "modules/gAudioBundle-4/src/Whooshes/Swoosh_Rope_Whip_075.ogg"
+		},
+		"default": {
+			"attack": "modules/gAudioBundle-2/src/Halloween/Sh101_Sword_Attack_Hollywood_Fienup_004.ogg",
+			"parry": "modules/gAudioBundle-3/src/Medieval Armor And Impacts/Weapon_Impact_Parry_01.ogg"
+		}
+	},
+	"skill": {
+		"Klettern": {
+			"fail": "modules/gAudioBundle-3/src/Rocks/Rock_Tumble_Down_Debris_Long_06.ogg",
+			"default": "modules/gAudioBundle-3/src/Rocks/Rock_Tumble_Down_Debris_Long_06.ogg"
+		},
+		"Kraftakt": {
+			"default": "modules/gAudioBundle-2/src/Fight Vocalizations/Emote_Joshua_Man_Pain_Hurt_Grunt_Big_03.ogg"
+		},
+		"Reiten": {
+			"success": "modules/gAudioBundle-4/src/Shetland Pony Vox/Pony_Nicker_Heavy_08.ogg",
+			"fail": "modules/gAudioBundle-4/src/Shetland Pony Vox/Pony_Whinny_Heavy_05.ogg",
+			"default": "modules/gAudioBundle-2/src/Horses/G4f_Sfx06-Horses-Whinny_Distant_01.ogg"
+		},
+		"Schwimmen": {
+			"fail": "modules/gAudioBundle-4/src/Unfathomed/Unfathomed_Hydrophone_Submerged_Smallglass_Effervescenttabs_Carbonateddrink_Pouring_Filling_Gurgling_Fizz_Alt.ogg",
+			"default": "modules/gAudioBundle-3/src/Lake Wave Sound Effects/Isolated_Lake_Wave_02_04.ogg"
+		},
+		"Selbstbeherrschung": {
+			"fail": "modules/gAudioBundle-2/src/Human/Scream_Male_Mid_Thirties_Mouth_Covered_Gasps_Fast_Shriek_Panic.ogg"
+		},
+		"Sinnesschärfe": {
+			"default": "modules/gAudioBundle-2/src/Fly/Insect__Fly_02_Take_Off__Flying_Away__Landing.ogg"
+		},
+		"Taschendiebstahl": {
+			"default": "modules/gAudioBundle-2/src/Coinage/Coins_Pouch_Leather_Drop_Into_Takes_3.ogg"
+		},
+		"Verbergen": {
+			"fail": "modules/gAudioBundle-2/src/Doors/Squeaky_Closet_Door_Open_001.ogg"
+		},
+		"Zechen": {
+			"fail": "modules/gAudioBundle-2/src/Final Impact/Glass_Bottle_Smash_005.ogg",
+			"default": "modules/gAudioBundle-4/src/Wakeywakey/Wakeywakey_Tea_Chai_Kitchen_Fullyprepared_Pouring_Mugtopot_Liquid_Fillup_Aerate_Alt.ogg"
+		},
+		"Betören": {
+			"success": "modules/gAudioBundle-2/src/Forge Sound Design Toolkit/Heart_Beat_02.ogg",
+			"fail": "modules/gAudioBundle-2/src/General Library/Whistle_Finger_Moderate_02.ogg"
+		},
+		"Einschüchtern": {
+			"fail": "modules/gAudioBundle-2/src/Cartoon Sounds/Cartoon_Caveman_Finding_Humor.ogg"
+		},
+		"Etikette": {
+			"fail": "modules/gAudioBundle-1/src/Burp/Jm_Burp_Short_Forced.ogg"
+		},
+		"Verkleiden": {
+			"default": "modules/gAudioBundle-2/src/Closet/Person_Removing_Jacket_001.ogg"
+		},
+		"Fischen & Angeln": {
+			"success": "modules/gAudioBundle-2/src/Hydrology Bubbles And Splashes/Fish_Small_Jump_04.ogg",
+			"fail": "modules/gAudioBundle-2/src/Hydrology Underwater/Underwater_Splash_Large_06.ogg",
+			"default": "modules/gAudioBundle-1/src/Black Sea/Sfx_Medium_Wave_Splash_On_Rocks_12.ogg"
+		},
+		"Pflanzenkunde": {
+			"default": "modules/gAudioBundle-4/src/Vegetable Carnage/Vegetable_Carnage_Apple_Rip_Snap_Dry_Medium_Long.ogg"
+		},
+		"Tierkunde": {
+			"fail": "modules/gAudioBundle-2/src/Dogs Game Ready/Dog_Small_Far_Barking_Echo-017.ogg"
+		},
+		"Wildnisleben": {
+			"default": "modules/gAudioBundle-2/src/General Library/Thunder_Very-Close_Rain_08.ogg"
+		},
+		"Geographie": {
+			"default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
+		},
+		"Geschichtswissen": {
+			"default": "modules/gAudioBundle-2/src/Handwriting Sound Effects/Handwriting_Fountainpen_023.ogg"
+		},
+		"Kriegskunst": {
+			"default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
+		},
+		"Magiekunde": {
+			"default": "modules/gAudioBundle-2/src/Handwriting Sound Effects/Handwriting_Fountainpen_023.ogg"
+		},
+		"Mechanik": {
+			"success": "modules/gAudioBundle-2/src/Elegant Machines/Rotation_Metal_Crank_Gears_Squeak_Rattle_Loop_Short.ogg",
+			"default": "modules/gAudioBundle-1/src/Black Metal/Dry_Hard_Metal_Impact_With_Rust_Debris_20.ogg"
+		},
+		"Rechtskunde": {
+			"default": "modules/gAudioBundle-2/src/Handwriting Sound Effects/Handwriting_Fountainpen_023.ogg"
+		},
+		"Sagen & Legenden": {
+			"default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
+		},
+		"Sphärenkunde": {
+			"default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
+		},
+		"Sternkunde": {
+			"default": "modules/gAudioBundle-3/src/Office/Office Equipment And Supplies/Shuffling_Paper_4.ogg"
+		},
+		"Alchimie": {
+			"default": "modules/gAudioBundle-2/src/Elements Water Volumes/Acid_Drop_Harsh_Sizzle_Burn_Melt_Corrosion.ogg"
+		},
+		"Boote & Schiffe": {
+			"default": "modules/gAudioBundle-1/src/Black Sea/Sfx_Medium_Wave_Splash_On_Rocks_12.ogg"
+		},
+		"Handel": {
+			"default": "modules/gAudioBundle-2/src/Coinage/Coins_Hand_Jingle_Movement_Takes_6.ogg"
+		},
+		"Heilkunde Gift": {
+			"default": "modules/gAudioBundle-2/src/Elements Water Volumes/Acid_Drop_Harsh_Sizzle_Burn_Melt_Corrosion.ogg"
+		},
+		"Heilkunde Krankheiten": {
+			"default": "modules/gAudioBundle-2/src/Elements Water Volumes/Acid_Drop_Harsh_Sizzle_Burn_Melt_Corrosion.ogg"
+		},
+		"Heilkunde Wunden": {
+			"default": "modules/gAudioBundle-3/src/Paper and Cardboard/Opening_A_Large_Cardboard_Package_04.ogg"
+		},
+		"Holzbearbeitung": {
+			"default": "modules/gAudioBundle-2/src/Ice/Ice Block/Saw_Ice_003.ogg"
+		},
+		"Lebensmittelbearbeitung": {
+			"default": "modules/gAudioBundle-4/src/Water/Water_In_Frying_Pan_05.ogg"
+		},
+		"Malen & Zeichnen": {
+			"default": "modules/gAudioBundle-2/src/Handwriting Sound Effects/Handwriting_Fountainpen_023.ogg"
+		},
+		"Metallbearbeitung": {
+			"success": "modules/gAudioBundle-1/src/Black Metal/Dry_Hard_Sheet_Metal_Movement_05.ogg",
+			"default": "modules/gAudioBundle-1/src/Antiques/Tobacco-Cutting-Machine_Antique_Crank_17.ogg"
+		},
+		"Musizieren": {
+			"success": "modules/gAudioBundle-2/src/Gliss Bliss/Bell_Guitar_Gliss_Up_01.ogg",
+			"fail": "modules/gAudioBundle-2/src/General Library/Whistle_Finger_Moderate_02.ogg"
+		},
+		"Schlösserknacken": {
+			"fail": "modules/gAudioBundle-2/src/Doors/Door_Open_004.ogg",
+			"default": "modules/gAudioBundle-1/src/Assorted Foley Elements/Doors_Wood_Gate_Open_2.ogg"
+		},
+		"Steinbearbeitung": {
+			"default": "modules/gAudioBundle-2/src/Elements Rocks Dirt And Stone/Rockslide_02.ogg"
+		},
+		"Stoffbearbeitung": {
+			"default": "modules/gAudioBundle-4/src/Scratches/Scratch Multi Surface Fingernail Scratches/Nails_On_Towel_Single_003.ogg"
+		}
+	},
+	"spell": {
+		"default:": {
+			"default": "modules/gAudioBundle-3/src/Magic Spells, Buffs And Attacks/Dark_Spell_Life_Tap_03.ogg"
+		}
+	},
+	"ritual": {
+		"default": {
+			"default": "modules/gAudioBundle-3/src/Magic Spells, Buffs And Attacks/Dark_Spell_Life_Tap_03.ogg"
+		}
+	},
+	"liturgy": {
+		"default": {
+			"default": "modules/gAudioBundle-1/src/Ambient Soundscapes/Church_Choir_Dm.ogg"
+		}
+	},
+	"ceremony": {
+		"default": {
+			"default": "modules/gAudioBundle-1/src/Ambient Soundscapes/Church_Choir_Dm.ogg"
+		}
+	},
+	"default": "sounds/drums.wav"
 }
