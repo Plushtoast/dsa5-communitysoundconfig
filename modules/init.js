@@ -1,9 +1,6 @@
-
 Hooks.once("ready", async function() {
     game.dsa5.apps.CommunitySound = new CommunitySound()
     game.dsa5.apps.CommunitySound.setCurrentSoundConfig()
-
-
 })
 
 Hooks.once("ready", () => {
@@ -16,23 +13,22 @@ Hooks.once("ready", () => {
         "gAudioBundle-3",
         "gAudioBundle-4",
     ]
-    modules = modules.filter(x => { !moduleEnabled(x) })
-    console.log(modules)
+    modules = modules.filter(x => {!moduleEnabled(x) })
     if (modules.length > 0) {
         let infoMsg = `Community Sound Config makes heavy usage of some sound modules. You might need to install those modules: <b>${modules.join("</b><br/>,<b>")}</b>.`
         ChatMessage.create(game.dsa5.apps.DSA5_Utility.chatDataSetup(infoMsg));
     }
 })
 
-class CommunitySound{
-    constructor(){
-        this.choices =  {
+class CommunitySound {
+    constructor() {
+        this.choices = {
             "demo": `modules/dsa5-communitysoundconfig/configs/default${game.i18n.lang}.json`,
             "none": "",
             "SkyOne": "modules/dsa5-communitysoundconfig/configs/SkyOne.json"
         }
     }
-    async setCurrentSoundConfig(){
+    async setCurrentSoundConfig() {
         await game.settings.set("dsa5", "soundConfig", this.choices[await game.settings.get("dsa5-communitysoundconfig", "selectedConfig")])
     }
 }
@@ -50,7 +46,7 @@ Hooks.once("init", () => {
             "demo": "Demo",
             "SkyOne": "SkyOne"
         },
-        onChange: async (li) => {
+        onChange: async(li) => {
             game.dsa5.apps.CommunitySound.setCurrentSoundConfig()
         }
     });
