@@ -38,7 +38,7 @@
     ]
   },
   "compatibility": {
-    "minimum": "11",
+    "minimum": "10",
     "verified": "12",
     "maximum": "12"
   }
