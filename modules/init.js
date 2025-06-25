@@ -1,4 +1,4 @@
-Hooks.once("ready", async function() {
+Hooks.once("ready", function() {
     game.dsa5.apps.CommunitySound = new CommunitySound()
     game.dsa5.apps.CommunitySound.setCurrentSoundConfig()
 })
