@@ -1,7 +1,7 @@
 {
   "title": "The Dark Eye 5th Ed. - Community Sound Config",
   "description": "Configuration files for sounds connected to abilites.",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "url": "https://github.com/Plushtoast/dsa5-communitysoundconfig",
   "manifest": "https://raw.githubusercontent.com/Plushtoast/dsa5-communitysoundconfig/master/module.json",
   "download": "https://github.com/Plushtoast/dsa5-communitysoundconfig/archive/master.zip",
@@ -39,7 +39,7 @@
   },
   "compatibility": {
     "minimum": "10",
-    "verified": "12",
-    "maximum": "12"
+    "verified": "13",
+    "maximum": "13"
   }
 }
